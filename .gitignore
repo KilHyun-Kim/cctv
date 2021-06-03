@@ -6,7 +6,8 @@
 .pnp.js
 .prettierrc
 /jsconfig.json
-
+/참고자료
+.env
 # testing
 /coverage
 
